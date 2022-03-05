@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = chel.holman@gmail.com
+	name = Chelsea Holman
